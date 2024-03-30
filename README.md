@@ -2,6 +2,15 @@
 
 The Food Complaint Resolution Application is an AI-based customer complaint system tailored to the food delivery industry. It aims to streamline the process of addressing customer complaints by leveraging state-of-the-art AI models and automation. Traditional complaint resolution processes often involve human intervention, which can be time-consuming and dependent on the availability of personnel. This application seeks to automate and expedite the complaint resolution process, thereby enhancing customer satisfaction and operational efficiency.
 
+## Hosted Platforms
+
+The Food Complaint Resolution Application is hosted on the following platforms:
+
+### Clarifai [Clarifai - Customer Complaint Handler](https://clarifai.com/mayuras7685/Hack-it-Sapiens/installed_module_versions/customer-complaint-handler)
+
+### Lightning AI [Lightning AI - Food Complaint Resolution](https://8501-01hr6mr9sh869vbn7jwhdffscm.cloudspaces.litng.ai)
+
+
 ## Features
 
 - **AI-driven Complaint Processing**: Utilizes AI models for complaint processing, reducing human effort and time.
