@@ -1,0 +1,5 @@
+flask
+jsonify
+clarifai
+clarifai_grpc
+python_dotenv
